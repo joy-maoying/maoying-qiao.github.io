@@ -12,7 +12,7 @@ Faculty of Engineering and IT
 
 **_Address_**: CB11.06.215, Ultimo, NSW 2007, Australia 
 
-**_E-mail_**: maoying\[dot\]qiao\[at\]uts\[dot\]edu\[dot\]au; qiao\[dot\]maoying\[at\]gmail\[dot\]com 
+**_E-mail_**: maoying \[dot\] qiao \[at\] uts \[dot\] edu \[dot\] au; qiao \[dot\] maoying \[at\] gmail \[dot\] com 
 
 \[[UTS Profile]()\] \[[Google Scholar](https://scholar.google.com/citations?user=40m854cAAAAJ&hl=en)\]
 
