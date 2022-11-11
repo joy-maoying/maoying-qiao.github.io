@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Senior Lecturer
+Senior Lecturer \\
 School of Computer Science
 
 
