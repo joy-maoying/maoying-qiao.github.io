@@ -2,8 +2,12 @@
 layout: default
 ---
 
-Senior Lecturer \\
+Senior Lecturer 
+
 School of Computer Science
+Faculty of Engineering and IT
+
+[University of Technology Sydney](https://www.uts.edu.au/)
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
